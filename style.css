@@ -1,0 +1,28 @@
+html{
+    background-color:rgb(72, 109, 97);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    display:block;
+}
+
+body{
+    background-color:rgb(93, 167, 143);
+    display:block;
+    margin:auto;
+}
+
+nav{
+    background-color: rgb(157, 206, 206);
+    align-items:center;
+    color:black
+    position:fixed;
+    right:0;
+    left:0;
+    height: 100px;
+}
+
+img{
+    width: 300px;
+    float:left;
+    margin: 10px 15px  20px 10px;
+}
